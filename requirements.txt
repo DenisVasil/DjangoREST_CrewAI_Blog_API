@@ -3,4 +3,5 @@ djangorestframework
 django-cors-headers
 crewai
 crewai-tools
+python-dotenv
 
